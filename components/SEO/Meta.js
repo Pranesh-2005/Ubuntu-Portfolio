@@ -43,6 +43,7 @@ export default function Meta() {
             <meta name="og:site_name" content="Pranesh Personal Portfolio" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
+            <meta name="google-site-verification" content="9c9WJrB6k1_0JHlUx3V8JNS7B5t4OGt8asr9IeJZhkM" />
 
             <link rel="icon" href="images/logos/my.svg" />
             <link rel="apple-touch-icon" href="images/logos/my.png" />
