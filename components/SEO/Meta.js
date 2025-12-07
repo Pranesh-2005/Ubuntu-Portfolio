@@ -39,7 +39,7 @@ export default function Meta() {
             <meta name="og:description"
                 content="Pranesh's (pranesh-2005) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="og:image" content="images/logos/my.png" />
-            <meta name="og:url" content="http://praneshubuntuport.vercel.app/" />
+            <meta name="og:url" content="http://praneshubuntuportfolio.vercel.app/" />
             <meta name="og:site_name" content="Pranesh Personal Portfolio" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
