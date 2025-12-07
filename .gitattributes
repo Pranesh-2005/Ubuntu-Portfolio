@@ -1,0 +1,4 @@
+*.css linguist-geneated
+*.js linguist-generated
+*.html linguist-generated
+*.jsx linguist-generated
