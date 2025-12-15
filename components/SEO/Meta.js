@@ -18,6 +18,8 @@ export default function Meta() {
             <meta name="language" content="English" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <meta name="theme-color" content="#E95420" />
+            <link rel="canonical" href="https://praneshubuntuportfolio.vercel.app/" />
+
 
             /* Search Engine */
             <meta name="image" content="images/logos/my.png" />
